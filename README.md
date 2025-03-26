@@ -28,7 +28,7 @@ However, the management noticed a decline in their active users and revenue grow
 ![Market](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Market.png)
 
 ![Plan](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Plan.png)
-
+---
 ### Insights
 
 - Revenue is declined by 0.5 % compared to the previous network, which is mainly caused by Delhi, Chennai, Ahmedabad cities.
