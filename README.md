@@ -2,6 +2,7 @@
 This project was completed as part of Codebasics' virtual internship task.
 
 Live Dashboard - [Link](https://www.novypro.com/create_project/wavecon-telecom-analysis-10)
+
 Presentation video - 
 
 ## Problem statement
