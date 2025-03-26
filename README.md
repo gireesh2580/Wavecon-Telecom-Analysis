@@ -19,7 +19,7 @@ However, the management noticed a decline in their active users and revenue grow
 
 ## Data Model
 
-![Data-Model 1](attachment:b3fbb00e-8ed3-44aa-b408-9724594a406a:image.png)
+![Data-Model 1](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Data-Model%201.png)
 
 ![](Wavecon-Telecom-Analysis/Data-Model 1.png)
 
