@@ -1,7 +1,7 @@
 # Wavecon-Telecom-Analysis
-This project is done as part of the November month codebaiscs resume project challenge
+This project was completed as part of Codebasics' virtual internship task.
 
-Challenge details - [Link](https://codebasics.io/event/codebasics-resume-project-challenge)
+Challenge details - 
 
 Live Dashboard - [Link](https://www.novypro.com/project/Wavecon-telecom-analysis-1)
 
