@@ -19,8 +19,9 @@ However, the management noticed a decline in their active users and revenue grow
 
 ## Data Model
 
-![image.png](attachment:b3fbb00e-8ed3-44aa-b408-9724594a406a:image.png)
-![image.png](attachment:2f37ffd6-3ae0-4711-a0d0-89c0cf65628b:image.png)
+![Data-Model 1](attachment:b3fbb00e-8ed3-44aa-b408-9724594a406a:image.png)
+![Wavecon-Telecom-Analysis](Data-Model 1.png)
+![Data-Model 2](attachment:2f37ffd6-3ae0-4711-a0d0-89c0cf65628b:image.png)
 
 ## Dashboard Design
 ![Dashboard Main](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Dashboard%20Main.png)
