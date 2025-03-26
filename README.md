@@ -1,8 +1,6 @@
 # Wavecon-Telecom-Analysis
 This project was completed as part of Codebasics' virtual internship task.
 
-Challenge details - 
-
 Live Dashboard - [Link](https://www.novypro.com/project/Wavecon-telecom-analysis-1)
 
 Presentation video - 
