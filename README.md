@@ -23,7 +23,7 @@ However, the management noticed a decline in their active users and revenue grow
 ![Data-Model 2](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Dashboard/Data-Model%202.png)
 
 ## Dashboard Design
-![Dashboard Main](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Dashboard/Dashboard Main KPI Page.png)
+![Dashboard Main](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Dashboard/Dashboard%20Main%20KPI%20Page.png)
 
 ![Market](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Dashboard/Market.png)
 
