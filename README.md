@@ -27,7 +27,7 @@ However, the management noticed a decline in their active users and revenue grow
 
 ![market_page](https://github.com/Naveen-S6/Wavecon_Telecom_Analysis_PowerBI/blob/main/resources/2.png)
 
-![plans_page](https://github.com/Naveen-S6/Wavecon_Telecom_Analysis_PowerBI/blob/main/resources/3.png)
+![Plan](https://github.com/gireesh2580/Wavecon-Telecom-Analysis/blob/main/Plan.png)
 
 ### Insights
 
