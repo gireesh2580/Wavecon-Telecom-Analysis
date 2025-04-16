@@ -3,7 +3,7 @@ This project was completed as part of Codebasics' virtual internship task.
 
 Live Dashboard - [Link](https://project.novypro.com/JIzM0K)
 
-Presentation video - 
+Presentation video - [Link](https://www.linkedin.com/posts/gireeshshewale_codebasicsvirtualinternship-powerbi-sql-activity-7318222272274546688-2-0n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEFP6U8BDEh44zwAx-vMz70-asyHWbbQWmA)
 
 ## Problem statement
 
